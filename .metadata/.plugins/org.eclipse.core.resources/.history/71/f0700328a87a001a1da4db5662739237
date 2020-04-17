@@ -1,0 +1,14 @@
+package main;
+
+public class Der extends Base{
+	
+	int z = 7;
+	@Override
+	public String toString() {
+		return  "D " +x+" " +y+ " "+z;
+		
+	}
+
+}
+
+
